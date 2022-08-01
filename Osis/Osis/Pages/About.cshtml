@@ -1,0 +1,41 @@
+﻿@page
+@model AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+<h4 style="margin-top:20px;">LIST DAFTAR ANGGOTA OSIS</h4>
+<hr />
+
+<div class="row">
+    <div style="margin-bottom:20px;" class="col-lg-2"><button class="btn btn-lg btn-primary btn-block" type="button"
+        onclick="location.href='OsisAdd'">
+    Tambah Data
+</button></div>
+    <div class="col-md-12">
+        <table class="table table-striped border">
+            <tr class="table-secondary">
+                <th>ID</th>
+                <th>NIS</th>
+                <th>NAMA</th>
+                <th>KELAS</th>
+                <th>JABATAN</th>
+                <th>Action</th>
+            </tr>
+            @foreach (var item in Model.DataOsis)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(m => item.id)</td>
+                    <td>@Html.DisplayFor(m => item.nis)</td>
+                    <td>@Html.DisplayFor(m => item.nama)</td>
+                    <td>@Html.DisplayFor(m => item.kelas)</td>
+                    <td>@Html.DisplayFor(m => item.jabatan)</td>
+                    <td>
+                        <a href="OsisAdd?action=edit&id=@item.id" class="btn btn-primary">Edit</a>
+                        |
+                        <a href="OsisAdd?action=delete&id=@item.id" class="btn btn-primary">Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

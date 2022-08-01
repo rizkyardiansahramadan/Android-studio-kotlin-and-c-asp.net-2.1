@@ -1,0 +1,12 @@
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.csproj.AssemblyReference.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.AssemblyInfoInputs.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.AssemblyInfo.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.TagHelpers.input.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.TagHelpers.output.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.dll
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\ref\Osis.dll
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.pdb
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\net5.0\Osis.RazorCoreGenerate.cache

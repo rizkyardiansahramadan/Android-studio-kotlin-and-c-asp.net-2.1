@@ -1,0 +1,108 @@
+C:\Users\emanu\source\repos\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.deps.json
+C:\Users\emanu\source\repos\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.runtimeconfig.json
+C:\Users\emanu\source\repos\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.runtimeconfig.dev.json
+C:\Users\emanu\source\repos\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.dll
+C:\Users\emanu\source\repos\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.pdb
+C:\Users\emanu\source\repos\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.Views.dll
+C:\Users\emanu\source\repos\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.Views.pdb
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.csprojAssemblyReference.cache
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorAssemblyInfo.cache
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorAssemblyInfo.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.AssemblyInfoInputs.cache
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.AssemblyInfo.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.TagHelpers.input.cache
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.TagHelpers.output.cache
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorCoreGenerate.cache
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorTargetAssemblyInfo.cache
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorTargetAssemblyInfo.cs
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.Views.pdb
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.dll
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.pdb
+C:\Users\emanu\source\repos\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.csproj.CopyComplete
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.csproj.AssemblyReference.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.AssemblyInfoInputs.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.AssemblyInfo.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorAssemblyInfo.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorAssemblyInfo.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.deps.json
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.runtimeconfig.json
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.runtimeconfig.dev.json
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.dll
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.pdb
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.Views.dll
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.Views.pdb
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.TagHelpers.input.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.TagHelpers.output.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorCoreGenerate.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\DataJson.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Login.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\OsisAdd.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorTargetAssemblyInfo.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorTargetAssemblyInfo.cs
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.Views.pdb
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.dll
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.pdb
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.genruntimeconfig.cache
+C:\Users\lenov\Downloads\Osis (1)\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.csproj.CopyComplete
+C:\Users\emanu\Music\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.deps.json
+C:\Users\emanu\Music\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.runtimeconfig.json
+C:\Users\emanu\Music\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.runtimeconfig.dev.json
+C:\Users\emanu\Music\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.dll
+C:\Users\emanu\Music\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.pdb
+C:\Users\emanu\Music\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.Views.dll
+C:\Users\emanu\Music\Osis\Osis\bin\Debug\netcoreapp2.1\Osis.Views.pdb
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.csprojAssemblyReference.cache
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorAssemblyInfo.cache
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorAssemblyInfo.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.AssemblyInfoInputs.cache
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.AssemblyInfo.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.TagHelpers.input.cache
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.TagHelpers.output.cache
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorCoreGenerate.cache
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\DataJson.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Login.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Logout.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\OsisAdd.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorTargetAssemblyInfo.cache
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.RazorTargetAssemblyInfo.cs
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.Views.pdb
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.dll
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.pdb
+C:\Users\emanu\Music\Osis\Osis\obj\Debug\netcoreapp2.1\Osis.csproj.CopyComplete

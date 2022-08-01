@@ -1,0 +1,42 @@
+﻿@page
+@model Osis.Pages.OsisAddModel
+@{
+    ViewData["Title"] = "OSIS";
+}
+<h2>@ViewData["Title"]</h2>
+
+<p>Use this area to provide additional information.</p>
+<div class="row">
+    <div class="c0l-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="tw.nis" class="control-label"></label>
+                <input asp-for="tw.nis" class="form-control" />
+                <span asp-validation-for="tw.nis" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tw.nama" class="control-label"></label>
+                <input asp-for="tw.nama" class="form-control" />
+                <span asp-validation-for="tw.nama" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tw.kelas" class="control-label"></label>
+                <input asp-for="tw.kelas" class="form-control" />
+                <span asp-validation-for="tw.kelas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tw.jabatan" class="control-label"></label>
+                <input asp-for="tw.jabatan" class="form-control" />
+                <span asp-validation-for="tw.jabatan" class="text-danger"></span>
+            </div>
+            <input asp-for="tw.id" type="hidden" />
+            <div class="form-group">
+                <input type="submit" value="SIMPAN" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts{
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}

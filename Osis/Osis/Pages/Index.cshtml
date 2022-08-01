@@ -1,0 +1,73 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="~/images/1.jpg" alt="ASP.NET" class="img-responsive" />
+        </div>
+        <div class="item">
+            <img src="~/images/2.jpg" alt="Visual Studio" class="img-responsive" />
+        </div>
+    </div>
+
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<div class="row">
+    <div style="background-color:#283742;color:#fff;" class="col-md-12 text-center">
+        <h3 style="margin:30px 0;">Sambutan Pembina OSIS</h3>
+        <img style="border-radius:50%" src="~/images/img.png" alt="Alternate Text" />
+        <p style="padding:0 40px;margin:30px 0;">
+            Assalamu'alaikum Warahmatullahi Wabarakaatuh.
+            Salam sejahtera untuk kita semua. Selamat datang di website OSIS SMPN 1.
+            Website ini dibangun sebagai sarana atau media informasi dan komunikasi organisasi osis,
+            karena sejalan dengan perkembangan teknologi industri 4.0 yang berguna untuk memudahkan
+            mencari informasi tentang SMPN 1. Kualitas layanan menjadi salah satu misi sekolah dan
+            kaitannya dengan transparansi dan akuntabilitas sekolah.<br />
+            Wassalamu'alaikum Warohmatullahi Wabarokatuh
+        </p>
+    </div>
+    <div class="col-md-12 text-center">
+        <h3 style="margin:40px 0;">List Anggota Osis Tahun 2022-2023</h3>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nis</th>
+                    <th>Nama Lengkap</th>
+                    <th>Kelas</th>
+                    <th>Jabatan</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.DataOsis)
+                {
+                    <tr style="text-align:left">
+                        <td>@Html.DisplayFor(m => item.id)</td>
+                        <td>@Html.DisplayFor(m => item.nis)</td>
+                        <td>@Html.DisplayFor(m => item.nama)</td>
+                        <td>@Html.DisplayFor(m => item.kelas)</td>
+                        <td>@Html.DisplayFor(m => item.jabatan)</td>
+                    </tr>
+                }
+                </tbody>
+        </table>
+        </div>
+    </div>
